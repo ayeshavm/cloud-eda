@@ -274,7 +274,7 @@ def archive_data(df, name):
     return None
 
 
-eng_str = 'postgresql://postgres:{}@35.229.127.195:5432/postgres'.format(password)
+eng_str = 'postgresql://postgres:{}@35.239.82.136:5432/postgres'.format(password)
 
 try:
     print('trying')
